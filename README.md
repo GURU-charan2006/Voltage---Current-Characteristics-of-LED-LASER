@@ -40,12 +40,12 @@ Key points:
 ## TABULATION
 
 
----
+![alt text](<WhatsApp Image 2026-03-14 at 10.41.54 AM.jpeg>)
 
 ## MODEL GRAPH
 
 
----
+![alt text](<WhatsApp Image 2026-03-14 at 10.41.54 AM (1).jpeg>)
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
